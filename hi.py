@@ -70,3 +70,7 @@ print(str_list)  # Output: ['1', '2', '3']
 my_list = [1, 2, 3]
 result = ''.join(str(x) for x in my_list)
 print(result)  # Output: '123'
+
+s="hello"
+
+print(s for s in range(10))
