@@ -1,4 +1,3 @@
-
 # Sneha is building a more advanced exponential calculator. She wants to implement a program that does the following:
 
 

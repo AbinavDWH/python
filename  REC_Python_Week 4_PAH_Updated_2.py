@@ -57,7 +57,7 @@
 
 # You are using Python
 n=int(input())
-l=list(map(int,input().split()));
+l=list(map(int,input().split()))
 
 d_3=[]
 d_5=[]
