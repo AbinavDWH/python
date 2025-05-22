@@ -9,11 +9,7 @@ a=a^b
 b=a^b
 a=a^b
 print(a,b)
-#for i in range(10):
-#    if i%2==0:
-#        print(i)
-#   else:
-#        print(-i)
+
 ly_list = [1, 5, 3, 4]
 ly_list.sort()
 print(ly_list)
